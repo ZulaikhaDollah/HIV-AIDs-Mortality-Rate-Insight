@@ -1,0 +1,6 @@
+This app consist of two main panel, Map panel and Plot panel
+Map panel display Malaysia map and mortality rate for each state according to the year
+User need to select which year they want and mortality rate for each state will be display in map plot
+Plot panel is a panel to display mortality rate in form of trend plot and according to different variables for year 1986 to 2014
+There are five variables that contribute to HIV/AIDs Mortality Rate in Malaysia which are state, gender, age group, occupation and risk factors.
+User can view Mortality rate according to each variables
